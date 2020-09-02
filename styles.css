@@ -1,0 +1,134 @@
+/* Styling page. IDs and classes will be used to style the content */
+
+/* Fonts IDs
+font-family: 'Josefin Slab', serif;
+font-family: 'Lexend Peta', sans-serif
+*/
+
+#body {
+    display: block;
+    background-color: #fffffe;
+    border-radius: 10px;
+    font-family: 'Josefin Slab', serif;
+    font-weight: 500;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    margin: 0;
+    text-align: center;
+}
+
+#main {
+    background-color: #edcfa9;
+    border-radius: 10px;
+    margin: 25px 15px;
+    padding: 15px;
+}
+
+#title-div {
+    background-color: #fffffe;
+    border: solid 2px #111111;
+    border-radius: 10px;
+    font-family: 'Lexend Peta', sans-serif;
+    height: 150px;
+    padding: 20px;
+    margin: 15px;
+}
+
+#title {
+    font-size: 3rem;
+    margin-top: 5px;
+    margin-bottom: 0;
+}
+
+#img-div {
+    background-color: #fffffe;
+    border-radius: 10px;
+    max-width: 75%;
+    padding: 20px;
+    margin: auto;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+#image {
+    border-radius: 10px;
+    height: auto;
+    margin: auto;
+    max-width: 100%;
+    padding: 10px;
+}
+
+#img-caption {
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+
+#tribute-info {
+    background-color: #edcfa9;
+    border-radius: 10px;
+    margin: auto;
+    padding-top: 5px;
+    padding-bottom: 10px;
+}
+
+#tribute-title {
+    background-color: #fffffe;
+    border: solid 2px #111111;
+    border-bottom: 0;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    font-family: 'Lexend Peta', sans-serif;
+    margin: auto;
+    max-width: 500px;
+    padding: 20px;
+}
+
+#tribute-content {
+    background-color: #fffffe;
+    border: solid 2px #111111;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-top: 0;
+    line-height: 2;
+    margin: auto;
+    max-width: 500px;
+    text-align: left;
+}
+
+li {
+    margin: 0 auto 15px auto;
+    padding: 0 10px 5px 10px;
+}
+
+#tribute-quote {
+    background-color: #fffffe;
+    border: solid 2px #111111;
+    border-radius: 10px;
+    font-style: italic;
+    margin: auto;
+    margin-top: 20px;
+    max-width: 500px;
+    padding: 20px;
+    text-align: left;
+}
+
+#wiki-link {
+    background-color: #fffffe;
+    border: solid 2px #111111;
+    border-radius: 10px;
+    font-weight: bold;
+    margin: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    max-width: 75%;
+    padding: 10px;
+}
+
+#tribute-link {
+    color: #7097b8;
+}
+
+#tribute-link:visited {
+    color: #5bbd8c;
+}
