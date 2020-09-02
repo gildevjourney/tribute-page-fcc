@@ -31,7 +31,8 @@ font-family: 'Lexend Peta', sans-serif
     font-family: 'Lexend Peta', sans-serif;
     height: 150px;
     padding: 20px;
-    margin: 15px;
+    margin: auto;
+    margin-bottom: 15px;
 }
 
 #title {
