@@ -54,6 +54,7 @@ font-family: 'Lexend Peta', sans-serif
 
 #image {
     border-radius: 10px;
+    display: block;
     height: auto;
     margin: auto;
     max-width: 100%;
